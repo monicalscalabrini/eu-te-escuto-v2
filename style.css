@@ -48,15 +48,14 @@ background-position: center top;
 }
 
 /* BACKGROUND SOBRENOS */
-body.sobrenos{
-
- 
-  background: url("sobrenos3.png") no-repeat center top;
-  background-size: cover;
-  }
-  /* BACKGROUND NARCISSISMO */
+body.sobrenos {
+    background: url("sobrenos3.png") no-repeat center top;
+    background-size: cover;
+}
 
 
+
+  /* BACKGROUND NARCISISMO */
 body.narcisismo{
   background-color:#0f172a;
   color:white;
