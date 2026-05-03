@@ -49,10 +49,12 @@ background-position: center top;
 
 /* BACKGROUND SOBRENOS */
 body.sobrenos{
-  background: url("../imagens/sobrenos3.png") no-repeat center top;
-background-size: cover;
-}
-/* BACKGROUND NARCISSISMO */
+
+ 
+  background: url("sobrenos3.png") no-repeat center top;
+  background-size: cover;
+  }
+  /* BACKGROUND NARCISSISMO */
 
 
 body.narcisismo{
